@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<furnitures_stores>
+
+<furnitures category="chair">
+  <chair id="01" type="dining chair" name="linus" material="wood" color="sea shell" product weight="8.14 kgs" seat height="98 cm" price="₱2,999.00">
+  <chair id="02" type="office chair" name="davian" material="leather" color="corn silk" product weight="9.64 kgs" seat height="106 cm" price="₱4,200.00">
+  <chair id="03" type="lounge chair" name="emmie" material="fabric" color="moccasin" product weight="6.84 kgs" seat height="60 cm" price="₱3,100.00">
+  <chair id="04" type="rocking chair" name="matt" material="metal" color="misty rose" product weight="7.66 kgs" seat height="73 cm" price="₱1,800.00">
+  <chair id="05" type="folding chair" name="greg" material="plastic" color="lavender blush" product weight="5.13 kgs" seat height="85 cm" price="₱550.00">
+  <chair id="06" type="stool chair" name="mila" material="upholstered" color="snow" product weight="4.21 kgs" seat height="46 cm" price="₱750.00">
+  <chair id="07" type="bar chair" name="corbin" material="metal" color="ivory" product weight="3.64 kgs" seat height="56 cm" price="₱12,750.00">
+</furnitures>
+
+<furnitures category="table">
+  <table id="01" type="vanity table" name="bella" material="melamine" color="rosy brown" height="40 cm" width="40 cm" depth=" 40 cm" number of drawers="8" price="₱18,700.00">
+  <table id="02" type="coffee table" name="ceito" material="wood" color="tan" height="50 cm" width="50 cm" depth=" 50 cm" number of drawers="6" price="₱16,550.00">
+  <table id="03" type="end table" name="huggy" material="plastic" color="floral white" height="30 cm" width="30 cm" depth=" 30 cm" number of drawers="1" price="₱3,900.00">
+  <table id="04" type="dining table" name="dust" material="metal" color="burly wood" height="80 cm" width="80 cm" depth=" 80 cm" number of drawers="4" price="₱23,500.00">
+  <table id="05" type="bedside table" name="rabius" material="upholstered" color="dim grey" height="30 cm" width="30 cm" depth=" 30 cm" number of drawers="3" price="₱13,990.00">
+  <table id="06" type="bar table" name="alruba" material="leather" color="light coral" height="60 cm" width="60 cm" depth=" 60 cm" number of drawers="2" price="₱20,400.00">
+</furnitures>
+
+<furnitures category="indoor lighting">
+  <lamp id="01" type="ceiling lights" name="eris" material="crystal" body color="lavender" lampshade color="ghost white" application="dining" price="₱9,999.00">
+  <lamp id="02" type="pendant lights" name="urusa" material="aluminum" body color="light cyan" lampshade color="linen" application="kitchen" price="₱7,640.00">
+  <lamp id="03" type="track lighting" name="golam" material="metal" body color="alice blue" lampshade color="old lace" application="98 cm" price="₱8,200.00">
+  <lamp id="04" type="stair lamps" name="vendi" material="acryl" body color="wheat" lampshade color="light grey" application="foyer" price="₱3,999.00">
+  <lamp id="05" type="desk lamps" name="pearl" material="glass stone" body color="azure" lampshade color="mint cream" application="study room" price="₱2,320.00">
+  <lamp id="06" type="wall lamps" name="twister" material="glass stone" body color="beige" lampshade color="golden rod" application="living room" price="₱5,989.00">
+</furnitures>
+
+<furnitures category="pillows">
+  <pillow id="01" type="accent pillow" name="treschic" material="cotton" color="crimson"  measurements="30x50 cm" price="₱499.00">
+  <pillow id="02" type="floor pillow case" name="cozyfox" material="feather" color="khaki" measurements="60x60 cm" price="₱379.00">
+  <pillow id="03" type="throw pillow case" name="teenhug" material="down" color="peach puff" measurements="43x43 cm" price="₱989.00">
+  <pillow id="04" type="fiber pillow" name="lovelybee" material="innerspring" color="coral" measurements="7x30 cm" price="₱579.00">
+  <pillow id="05" type="specialty pillow" name="lyzoo" material="gel" color="deep pink" measurements="65x14 cm" price="₱389.00">
+  <pillow id="06" type="seat pads" name="kittycast" material="memory foam" color="salmon" measurements="16x16 cm" price="₱599.00">
+</furnitures>
+
+<furnitures category="bed">
+  <bed id="01" type="single bed" name="jean" material="fabric" color="white smoke" single size="W97xD196.5xH 81.50 cm" mattress size="36x75" seat height="98 cm" headboard height="890 mm" bed height="890 mm" price="₱10,999.00">
+  <bed id="02" type="double bed" name="ruth" material="metal" color="burly wood" double size="L275 x D1450 x H890 mm" mattress size="54x75" seat height="380 mm" headboard height="380 mm" bed height="380 mm" price="₱17,999.00">
+  <bed id="03" type="semi double bed" name="dell" material="veneer" color="grey" semi-double size="W127.5 x D196.5 x H81.50 cm" mattress size="48x75" seat height="98 cm" headboard height="890 mm" bed height="890 mm" price="₱22,999.00">
+  <bed id="04" type="queen bed" name="quinn" material="mdf" color="grey" queen size=" L2005 x W1590 x H890 mm" mattress size="60x75" seat height="380 mm" headboard height="890 mm" bed height="890 mm" price="₱28,999.00">
+  <bed id="05" type="olympic queen bed" name="jade" material="mdf" color="grey" olympic queen size=" L2705 x W1690 x H890 mm" mattress size="66x80" seat height="380 mm" headboard height="890 mm" bed height="890 mm" price="₱3-,999.00">
+  <bed id="06" type="king bed" name="cove" material="wood" color="saddlebrown" king size=" L3089 x W1980 x H890 mm" mattress size="102x90" seat height="480 mm" headboard height="890 mm" bed height="890 mm" price="₱35,999.00">
+</furnitures>
+
+
+
+
+
+
+
+
+
+
